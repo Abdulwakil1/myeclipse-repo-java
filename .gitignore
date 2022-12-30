@@ -3,4 +3,5 @@ README.md
 random.txt
 main.log
 *.log
+.DS_Store
 
